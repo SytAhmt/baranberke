@@ -1,0 +1,132 @@
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\appsettings.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.staticwebassets.runtime.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.exe
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.deps.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.runtimeconfig.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\YesilayKlubu.pdb
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.csproj.AssemblyReference.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.AssemblyInfoInputs.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.AssemblyInfo.cs
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.csproj.CoreCompileInputs.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.RazorAssemblyInfo.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.RazorAssemblyInfo.cs
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\scopedcss\bundle\YesilayKlubu.styles.css
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\scopedcss\projectbundle\YesilayKlubu.bundle.scp.css
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.csproj.CopyComplete
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\refint\YesilayKlubu.dll
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.pdb
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\YesilayKlubu.genruntimeconfig.cache
+C:\Users\BT OGRETMEN\Desktop\YesilayKlubu\obj\Debug\net6.0\ref\YesilayKlubu.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\appsettings.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.staticwebassets.runtime.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.exe
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.deps.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.runtimeconfig.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\YesilayKlubu.pdb
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.AssemblyInfoInputs.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.AssemblyInfo.cs
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.RazorAssemblyInfo.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.RazorAssemblyInfo.cs
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\scopedcss\bundle\YesilayKlubu.styles.css
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\scopedcss\projectbundle\YesilayKlubu.bundle.scp.css
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.csproj.CopyComplete
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\refint\YesilayKlubu.dll
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.pdb
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\YesilayKlubu.genruntimeconfig.cache
+C:\Users\Ogrenci\Desktop\proje123\kizilayKlubuOrnek-master\obj\Debug\net6.0\ref\YesilayKlubu.dll
